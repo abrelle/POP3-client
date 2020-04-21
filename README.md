@@ -10,7 +10,7 @@ Post Office Protocol - Version 3 kliento protokolas
 3.USER ir PASS - autentifikacijos etapui<br/>
 4.LIST - žinučių sąrašas<br/>
 5.RETR - atspausdina žinutės turinį<br/>
-6.DELE - pažymi žinutes, kurias norima ištrinti
+6.DELE - pažymi žinutes, kurias norima ištrinti<br/>
 7.NOOP - implementuota, tačiau nėra tarp vartotojo pasirinkimų<br/>
 8.RSET - atžymi pažymėtas žinutes<br/>
 9.TOP - atspausdina pasirinktos žinutės norimą eilučių skaičių<br/>
