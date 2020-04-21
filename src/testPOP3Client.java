@@ -44,7 +44,7 @@ public class testPOP3Client{
             }
 
             while(state == 2){
-                System.out.println("Press key and enter to choose an option.\n\n");
+                System.out.println("\n\nPress key and enter to choose an option.\n");
                 System.out.println("1. Read a message.");
                 System.out.println("2. Mark a message as deleted.");
                 System.out.println("3. List all messages.");

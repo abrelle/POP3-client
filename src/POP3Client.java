@@ -149,7 +149,6 @@ public class POP3Client {
                 System.out.println("Logged out.");
             else
                 System.out.println("Haven't logged out.");
-            System.out.println(response);
 
     }
 

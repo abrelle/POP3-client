@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a9789c0-1c98-4041-978c-34f97d6e12fc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/POP3Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POP3Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testPOP3Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testPOP3Client.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +82,8 @@
       <workItem from="1587423563133" duration="613000" />
       <workItem from="1587456702001" duration="53000" />
       <workItem from="1587457062160" duration="192000" />
+      <workItem from="1587457450614" duration="9000" />
+      <workItem from="1587457497035" duration="225000" />
     </task>
     <servers />
   </component>
