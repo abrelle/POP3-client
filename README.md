@@ -21,5 +21,7 @@ Default port - 995, o ne 110, kaip nurodyta RFC 1939, nes dauguma paštų naudoj
 
 Bandžiau yahoo.com, outlook.com paštus, pavykdavo prisijungti prie serverio, tačiau prie asmeninio pašto - ne.
 
-Testavimas: Sukompiliavus testPOP3client.java reikia suvesti savo pašto prisijungimo vardą ir slaptažodį. Prisijungus turėtų rodyti meniu
-su galimomis komandomis.
+testPOP3Client.java - testavimui skirtas failas.
+POP3Client.java - POP3 protokolo kliento implementacija.
+
+Testavimas: sukompiliavus ir paleidus testPOP3Client.* prašoma suvesti prisijungimo vardą ir slaptažodį (gmail'e įgalinus POP). Po sėkmingo prisijungimo komandinėje eilutėje pasirodo meniu pasirinkimai.
