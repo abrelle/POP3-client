@@ -3,7 +3,7 @@ A simple pop3 protocol client implementation
 
 Post Office Protocol - Version 3 kliento protokolas
 
-###### Implementuotos komandos:
+## Implementuotos komandos:
 
 1.STAT - žinučių skaičius<br/>
 2.QUIT - ištrina pažymėtas žinutes, atsijungia nuo serverio<br/>
