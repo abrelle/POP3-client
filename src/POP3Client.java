@@ -6,6 +6,18 @@ import java.io.*;
 import java.net.*;
 import java.util.Vector;
 
+/**
+ * Basic POP3 client implementation
+ *
+ * Author Gabriele Buivydaite
+ * Date: 2020-04-17
+ *
+ * Possible future improvements:
+ * 1) Add an option to choose a host
+ * 2) Not enough testing has been done, better error handling
+ * 3) Receiving formatted messages
+ */
+
 
 public class POP3Client {
 

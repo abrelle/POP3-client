@@ -3,6 +3,19 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/**
+ * Basic POP3 client test implementation
+ *
+ * Author: Gabriele Buivydaite
+ * Date: 2020-04-17
+ *
+ * Possible future improvements:
+ * 1) Fix entering a password : password => ********
+ * 2) Not enough testing has been done, better error handling
+ * 3) Improve main "thread"
+ */
+
+
 
 /**state values:
  * 0 - nothing
