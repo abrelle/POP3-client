@@ -5,16 +5,16 @@ Post Office Protocol - Version 3 kliento protokolas
 
 Implementuotos komandos:
 
-1.STAT - žinučių skaičius
-2.QUIT - ištrina pažymėtas žinutes, atsijungia nuo serverio
-3.USER ir PASS - autentifikacijos etapui
-4.LIST - žinučių sąrašas
-5.RETR - atspausdina žinutės turinį
+1.STAT - žinučių skaičius<br/>
+2.QUIT - ištrina pažymėtas žinutes, atsijungia nuo serverio<br/>
+3.USER ir PASS - autentifikacijos etapui<br/>
+4.LIST - žinučių sąrašas<br/>
+5.RETR - atspausdina žinutės turinį<br/>
 6.DELE - pažymi žinutes, kurias norima ištrinti
-7.NOOP - implementuota, tačiau nėra tarp vartotojo pasirinkimų
-8.RSET - atžymi pažymėtas žinutes
-9.TOP - atspausdina pasirinktos žinutės norimą eilučių skaičių
-10.UIDL - atspausdina žinutės unikalų ID.
+7.NOOP - implementuota, tačiau nėra tarp vartotojo pasirinkimų<br/>
+8.RSET - atžymi pažymėtas žinutes<br/>
+9.TOP - atspausdina pasirinktos žinutės norimą eilučių skaičių<br/>
+10.UIDL - atspausdina žinutės unikalų ID.<br/>
 
 Klientas veikia "pop.gmail.com" serveryje. Norint prisijungt prie savo gmail pašto dėžutes, reikia paskytoje įgalinti POP.
 Default port - 995, o ne 110, kaip nurodyta RFC 1939, nes dauguma paštų naudoja SSL sertifikatą.
