@@ -105,9 +105,7 @@ public class POP3Client {
     private String sendCommand(String command) throws IOException {
         writer.write(command + "\n");
         writer.flush();
-        String response = reader.readLine();
-       System.out.println(response);
-        return response;
+        return reader.readLine();
     }
 
 
@@ -170,7 +168,6 @@ public class POP3Client {
                 System.out.println("Message marked as deleted.");
             else
                 System.out.println("Message could not be deleted.");
-                System.out.println(response);
         }
         else
             System.out.println("Wrong number input");
